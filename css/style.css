@@ -39,6 +39,7 @@ margin-left: 40px;
 
 td,th{
     text-align: center;
+    text-transform:  capitalize ;
 }
 
 thead>tr:first-child{    
